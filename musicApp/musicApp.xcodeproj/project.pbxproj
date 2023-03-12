@@ -67,6 +67,7 @@
 				23FFEB8629A7F5900027F495 /* Preview Content */,
 				236B151529A8FD4D00B83164 /* Model.swift */,
 				23827D0429BE38E90022FF78 /* TestBranch:1.swift */,
+				23827D0829BE3DE30022FF78 /* test.swift */,
 			);
 			path = musicApp;
 			sourceTree = "<group>";
