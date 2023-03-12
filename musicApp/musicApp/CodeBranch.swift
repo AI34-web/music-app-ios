@@ -9,7 +9,11 @@ import SwiftUI
 
 struct CodeBranch: View {
     var body: some View {
-        Text("New balance")
+        
+        ZStack {
+            Text("New balance")
+            Text("222222222")
+        }
     }
 }
 
