@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		236B151629A8FD4D00B83164 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236B151529A8FD4D00B83164 /* Model.swift */; };
+		23827D0D29BE499D0022FF78 /* CodeBranch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23827D0C29BE499D0022FF78 /* CodeBranch.swift */; };
 		23FFEB8129A7F58E0027F495 /* musicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FFEB8029A7F58E0027F495 /* musicApp.swift */; };
 		23FFEB8329A7F58E0027F495 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FFEB8229A7F58E0027F495 /* ContentView.swift */; };
 		23FFEB8529A7F5900027F495 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23FFEB8429A7F5900027F495 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		236B151529A8FD4D00B83164 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		23827D0C29BE499D0022FF78 /* CodeBranch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeBranch.swift; sourceTree = "<group>"; };
 		23FFEB7D29A7F58E0027F495 /* musicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = musicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23FFEB8029A7F58E0027F495 /* musicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicApp.swift; sourceTree = "<group>"; };
 		23FFEB8229A7F58E0027F495 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				23FFEB8429A7F5900027F495 /* Assets.xcassets */,
 				23FFEB8629A7F5900027F495 /* Preview Content */,
 				236B151529A8FD4D00B83164 /* Model.swift */,
+				23827D0C29BE499D0022FF78 /* CodeBranch.swift */,
 			);
 			path = musicApp;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23827D0D29BE499D0022FF78 /* CodeBranch.swift in Sources */,
 				236B151629A8FD4D00B83164 /* Model.swift in Sources */,
 				23FFEB8329A7F58E0027F495 /* ContentView.swift in Sources */,
 				23FFEB8129A7F58E0027F495 /* musicApp.swift in Sources */,
